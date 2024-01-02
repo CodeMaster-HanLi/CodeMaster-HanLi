@@ -1,16 +1,20 @@
-### Hi there 👋
+# 欢迎来到我的GitHub！👋
 
-<!--
-**CodeMaster-HanLi/CodeMaster-HanLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于我
+我是一个对编程充满好奇心的初学者，正在GitHub上踏出我的第一步。我对技术和编程有浓厚的兴趣，尤其是对于Java。目前，我还是一个小白，但我希望能够通过学习和实践，成为一个优秀的开发者。
 
-Here are some ideas to get you started:
+## 我的目标
+- 学习更多关于编程和软件开发的知识。
+- 探索新的项目和想法，提升我的编程技能。
+- 参与开源社区，与其他开发者进行合作和学习。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 目前的项目
+目前我还在探索阶段，正在学习和掌握基础知识。将会在这里分享我的学习进度和可能的项目。欢迎任何建议和指导！
+
+## 联系方式
+如果你也对编程充满热情，或者想要交流，可以通过以下方式联系我：
+- 邮箱：devonlesliejrap@gmail.com
+
+
+感谢你来访我的GitHub页面，让我们一起努力，共同进步成长！🌟
+
